@@ -13,4 +13,6 @@ You need an invite to the Next Layer workspace: open the invite link you were se
 
 **First run on Windows:** run the installer (no admin rights needed). If SmartScreen says "Windows protected your PC", click **More info › Run anyway**.
 
+**Updates:** from 1.3.0 on, the app updates itself — when a new version is out, a **Restart to Update** button appears in the app (Mac: bottom of the sidebar; Windows: above the conversation). One click and it reopens where you were. Quitting the app also installs it.
+
 Checksums for each release are in its `SHA256SUMS.txt`.
